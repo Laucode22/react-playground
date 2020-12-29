@@ -1,0 +1,14 @@
+.li{
+    list-style: none;
+}
+
+.link{
+  text-decoration: none;
+color: darkgray;
+}
+
+.link:hover{
+    color: lightcoral;
+    font-size: 150%;
+}
+
